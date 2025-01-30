@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/adhameltarahoney/Desktop/PL Spring 25 material/Class 1",
+      "program": "/Users/adhameltarahoney/Desktop/PL Spring 25 material/Class 1/build/Debug/outDebug"
+    }
+  ]
+}
