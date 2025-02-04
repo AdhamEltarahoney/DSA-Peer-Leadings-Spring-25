@@ -1,0 +1,45 @@
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Dependency files
+*.d
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Makefiles and CMake files
+Makefile
+CMakeLists.txt.user
+
+# Core dumps
+core.*
+
+# Generated documentation
+docs/
